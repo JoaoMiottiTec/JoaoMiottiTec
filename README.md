@@ -1,8 +1,8 @@
-<h1 align="center"> Hellooo Welcome To My Git Hub! 🚀 </h1>
+<h1 align="center"> Hellooo Welcome To My Git Hub!  </h1>
 
-## What's up? 👋
+## What's up? 
 
-My name is João Vitor Miotti. I'm a backend-focused developer with strong experience in Node.js and TypeScript, which represent around **80% of my current stack**.
+My name is João Vitor Miotti. I'm a fullstack developer with strong experience in Node.js and TypeScript, which represent around **80% of my current stack**.
 
 I started programming in 2019 and have been evolving ever since. Over the past few years, I've had the opportunity to work on real-world projects, contributing to production code, delivering features end-to-end, and deepening my knowledge in backend architecture and integrations.
 
